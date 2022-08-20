@@ -1,0 +1,63 @@
+main > .container{
+    padding: 30px 0;
+}
+.udlite-text-xs {
+    font-family: udemy sans,sf pro text,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-weight: 400;
+    line-height: 1.4;
+    font-size: 0.8rem;
+}
+.payment-method--payment-method--container--2rQlV .payment-method--payment-method--header--252Wi .payment-method--secure-connection--1K5Y8 {
+    display: flex;
+    align-items: center;
+    color: #6a6f73;
+}
+.payment-method--payment-method--container--2rQlV .payment-method--payment-method--header--252Wi {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2.4rem;
+}
+.udlite-heading-xl {
+    font-family: udemy sans,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -.02rem;
+    font-size: 2.4rem;
+}
+.udlite-icon-small {
+    width: 2rem;
+    height: 2rem;
+}
+.udlite-icon-color-neutral {
+    color: #1c1d1f;
+}
+.udlite-icon {
+    fill: currentColor;
+    display: inline-block;
+    flex-shrink: 0;
+}
+svg:not(:root) {
+    overflow: hidden;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.welcome h1{
+    display: inline-block;
+    font-family: italic;
+    font-weight: bold;
+
+}
+
+.welcome a{
+    float: right;
+    display: inline-block;
+
+}
+.titulo-adm{
+    font-family: italic;
+    font-weight: bold;
+}
